@@ -8,4 +8,6 @@ A Decentralized Website where anyone can sell their non-fungible tokens.
 - Web3.js
 - Truffle
 - Ganache
-
+## Usage
+- npm install 
+- npm-start
